@@ -1,0 +1,6 @@
+{
+  "name": "Kinetics — Focus & Media Workspace",
+  "description": "A study timer and focus workspace with 4 interactive media homepage boxes (3 YouTube tabs and 1 Spotify hub), customizable color themes, stats, and creative focus worlds.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
